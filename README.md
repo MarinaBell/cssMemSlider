@@ -1,1 +1,1 @@
-# cssMemSlider/index.html
+https://marinabell.github.io/cssMemSlider/CSSMemSlider/index.html
